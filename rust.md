@@ -41,6 +41,7 @@
 - Data types
     - Every value in rust is of a certain type
     - two subsets
+        - stored in the stack, so dropped when variable goes out of scope
         - Scalar
             - single value
             - integers, floats, booleans, characters
@@ -48,3 +49,39 @@
             - tuple
                 - let tup: (i32, f64, u8) = (500, 6.4, 1);
             - array
+
+### Ownership
+
+- Enables memory safety gurantees without garbage collector
+- Managing heap data is why ownership exists
+- Rules
+    - Variables are owners 
+    - Only one owner at a time 
+    - value dropped when owner goes out of scope
+
+- string literal vs String type
+    - In case of string literal, values are hardcoded into the executable at compile, this make things faster
+    - String::from requests memory from the heap
+    - Memory is return when variable goes out of scope
+        - drop function called by rust at closing }
+        - double free error 
+            - removal of two variables pointing to same memory locations.
+            - solution?
+                - move variable from original to the latest
+
+- References
+    - & - refer to values without taking ownership
+    - borrowing
+        - have functional parameters as References
+    - Mutable References        
+        - can only point to once piece of data
+            - prevents data races at compile time
+            - use scoping to overcome this
+    - Slice 
+  
+        ``` 
+        let s = String::from("hello); 
+        let slice = &s[0..2];
+        ```
+        -   
+         
