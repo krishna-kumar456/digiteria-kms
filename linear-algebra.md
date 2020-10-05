@@ -34,7 +34,21 @@
 
 ### Images
 
-- 
+- When an element in X goes through f to be in Y, then element in Y is called x's image in Y.
+
+### Domain and Range
+
+- Left set is domain
+- right set of elements post function are Range
+
+### Onto and one to one
+
+- If range = codomain, then onto function.
+
+### Inverse Functions
+
+- Collidinig mapping of elements in functions f and g which are inverse in nature.
+- The function has an inverse <=>  f has one to one and onto
 
 ## Matrices
 <br/>
