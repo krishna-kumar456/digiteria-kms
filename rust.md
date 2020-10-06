@@ -83,5 +83,42 @@
         let s = String::from("hello); 
         let slice = &s[0..2];
         ```
-        -   
+
+
+### Structs 
+
+- Similar to tuples but flexible, thanks to named properties.
+  
+``` 
+struct User {
+        username: String,
+        email: String
+      }
+```
+
+- struct update syntax - ..user1
+- #[derive(Debug)] for debugging info
+- methods
+    - impl block
+    - always has self pointing to struct
+    - associated functions to generate new instance of struct
+
+
+### Enums and pattern matching
+
+```
+enum IpAddrKind {
+    V4,
+    V6
+}
+
+```
+
+- Option and match similar to scala
+- if let for singular match patterns
+
+
+### Packages, crates and modules
+
+- 
          
