@@ -53,6 +53,10 @@
 ## Matrices
 <br/>
 
+- How are matrices useful?
+    - Great for writing linear systems more compactly
+-
+
 
 ## Vectors
 <br/>
@@ -60,6 +64,15 @@
 
 ## Linear Transformations
 <br/>
+
+- xi and xj
+- c be any real number
+- f is a function from X to Y.
+- f is called a linear transformation if
+    - f(xi) + f(xj) = f(xi + xj)
+    - c * f(xi) = f(cxi)
+    
+    
 
 
 ## Eigen Values and Eigen Vectors
