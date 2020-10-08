@@ -55,7 +55,19 @@
 
 - How are matrices useful?
     - Great for writing linear systems more compactly
--
+- Special Matrices
+    - Zero  
+        - All elements are 0
+    - Transpose 
+        - Row to column
+    - Symmetric
+        - Symmetric around the diagonals
+    - Upper and Lower
+        - Zero elements in a triangle
+    - Diagonal 
+        - Onle elements within diagonal rest all zero 
+    - Identity
+        - 1 in diagonal 
 
 
 ## Vectors
