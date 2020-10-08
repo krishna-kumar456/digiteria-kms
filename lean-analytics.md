@@ -43,3 +43,55 @@
         - 5 things explained below 
 
 - Qualitative vs Quantitative
+    - Qualitative metrics  are  unstructured,  anecdotal,  revealing,  and  hard  to aggregate
+    - quantitative metrics involve numbers and statistics, and provide hard numbers but less insight.
+    - Both have its parts
+
+- Vanity vs Actionable
+    - Actionable metrics change your behaviour
+    - Example of Vanity - Watchout!
+        - Total signups
+            - Can only increase,  doesnt tell you anything about your user.
+        - No of hits 
+        - No of Page views
+        - No of visits
+        - No of unique visitors
+        - No of followers
+        - Time on site 
+        - Emails collected
+        - No of downloads
+    - Example of Actionable 
+        - % of active users 
+        - No of users acquired over a specific period of time
+            - Do segmentation analysis concurrently
+- Exploratory vs Reporting
+    - Unknown insights vs reporting normal day to day ops
+    - ![](https://i.gyazo.com/5656f6468927bd818ada88593b030fc5.png)
+    - Circle of Mom case Study
+        - Dig into data and look for meaningful patterns and oppurtunities
+- Leading vs Lagging
+    - Future vs Past 
+    - Leading are better as they allow time to act 
+    - For leading to work 
+        - Cohort analysis
+        - Compare group of customers over a period of time 
+    - Example of Leading    
+        - Current number of prospects in sales funnel 
+        - New qualified leads
+            - Requires
+                - Conversions Rate 
+                - Sales length Cycle
+    - Example of Lagging 
+        - Quartely new bookings
+    
+    - Churn can be both leading and lagging 
+        - Leading
+            - Track total number of support calls
+            - Customer complaints over a 90 day period 
+         
+- Correlated vs Causal
+    - When two metrics change together vs One metric causes other to change. 
+    - Causation occurs due to multiple factors
+    - Correlation is good, causality is great
+
+- Moving Targets
