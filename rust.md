@@ -120,5 +120,35 @@ enum IpAddrKind {
 
 ### Packages, crates and modules
 
-- 
+- Crate root
+    - Source file rust compiler starts from
+    - A package is one or more crates - provide functionality
+        - Must contain zero or one library crates 
+        - Can contain multiple binary crates
+
+- Modules 
+    - Organize code
+    - mod keyword
+
+- Paths 
+    - Find item in a module tree
+    - Two forms 
+        - Absolute
+        - Relative 
+    - use and self keywords to bring paths into scope
+
+- Common Collections 
+    - Vector
+    - String
+        - s.push_str("bar")
+        - No indexing support
+    - Hashmap
          
+- Error Handling 
+    - Types 
+        - Recoverable
+        - Unrecoverable
+    - No exceptions
+        - Result<T, E> type for Recoverable
+        - panic! macro for Unrecoverable
+    - ? for propogating errors
