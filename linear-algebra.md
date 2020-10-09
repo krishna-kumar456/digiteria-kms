@@ -68,6 +68,10 @@
         - Onle elements within diagonal rest all zero 
     - Identity
         - 1 in diagonal 
+    - Inverse 
+        - Product of two square matrices is an inverse matrix
+            - Both are inverses of each other 
+        - Gaussian elimination
 
 
 ## Vectors
