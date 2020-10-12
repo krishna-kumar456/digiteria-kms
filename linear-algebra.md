@@ -73,6 +73,9 @@
             - Both are inverses of each other 
         - Gaussian elimination
 
+- Determinants
+    - Inverse of a matrix exists if determinant != 0
+
 
 ## Vectors
 <br/>

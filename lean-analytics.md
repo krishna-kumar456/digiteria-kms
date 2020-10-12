@@ -95,3 +95,19 @@
     - Correlation is good, causality is great
 
 - Moving Targets
+    - High Score Case Study
+        - Know your customer
+        - Create initial benchmarks that can be adjusted later 
+
+- Testing
+    - Segmentation
+        - Group of people that share a common characterstics
+    - Cohort Analysis
+        - Compare similar groups over a period of time (Longitudonal)
+        - Can be done for
+            - Revenue
+            - Churn
+            - Viral word of mouth
+            - Support Cost
+    - A/B and multivariate testing
+        - Different groups are given different experiment (Cross sectional studies)
