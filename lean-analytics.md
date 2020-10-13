@@ -111,3 +111,6 @@
             - Support Cost
     - A/B and multivariate testing
         - Different groups are given different experiment (Cross sectional studies)
+
+- ![](https://i.gyazo.com/6048d3d449782773e87794dd6efee454.png)
+    

@@ -80,6 +80,10 @@
 ## Vectors
 <br/>
 
+- 1xn and nx1 matrices
+- R power n
+    - Set of all nx1 matrices
+
 
 ## Linear Transformations
 <br/>
