@@ -113,4 +113,25 @@
         - Different groups are given different experiment (Cross sectional studies)
 
 - ![](https://i.gyazo.com/6048d3d449782773e87794dd6efee454.png)
+
+
+### Deciding what to do with your life
+
+- Lean Canvas
+    - ![](https://i.gyazo.com/a968307b88fe243f76cc0095401da6f5.png)
+
+
+
+### Data Driven vs Data Informed
+
+- Change favors local maxima
+- Innovation favors global disruption
+- Humans do inspiration, machines validate
+- Thinking Like a Data Scientist - Common pitfalls to avoid
+    - Assuming data is clean
+    - Not normalizing
+    - Outliers
+    - Ignoring seasonality
+    - Ignoring size when reporting growth
+    - Focusing on noise
     
