@@ -84,6 +84,13 @@
 - R power n
     - Set of all nx1 matrices
 
+- Linear Independance
+    - Only one unique solution
+- Linear Dependance
+    - Muliple solutions
+- Bases
+    - Linear independance
+
 
 ## Linear Transformations
 <br/>

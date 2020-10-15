@@ -134,4 +134,20 @@
     - Ignoring seasonality
     - Ignoring size when reporting growth
     - Focusing on noise
+
+### Big Vision
+
+- Building a to lean what product to build.
+
+
+## Part 2
+
+### Analytics Frameworks
+
+- Dave McClure's Pirate Metrics (AARRR)
+    - Acquisition
+    - Activation
+    - Retention
+    - Revenue
+    - Referral
     
