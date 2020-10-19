@@ -150,4 +150,25 @@
     - Retention
     - Revenue
     - Referral
+- Eric Ries Engines of growth
+    - 3 Engines that drive growth of startup
+        - Each has KPI
+    - Stick Engine
+        - Get User's to return
+            - KPI - Retention
+            - Metrics
+                - Churn Rate
+                - Usage frequency
+                - Email open and click through rate
+    - Virality Engine
+        - Getting word out
+        - Metric
+            - Viral Coefficient
+                - Number of users a new users brings on
+    - Paid Engine
+        - Payments
+        - Revenue helps growth only when you put money back into acquisition
+            - Customer Lifetime Value
+            - Custom Acquisition Cost
+  
     

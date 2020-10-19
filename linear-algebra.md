@@ -90,6 +90,8 @@
     - Muliple solutions
 - Bases
     - Linear independance
+- Subspaces
+    - Sub space within Rm
 
 
 ## Linear Transformations
