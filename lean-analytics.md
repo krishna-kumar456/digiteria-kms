@@ -170,5 +170,24 @@
         - Revenue helps growth only when you put money back into acquisition
             - Customer Lifetime Value
             - Custom Acquisition Cost
-  
+- Ash Maurya's Lean Canvas
+    - Maps metrics to lean canvas
+    - ![](https://i.gyazo.com/2ab29b04f95b6e12f3e6121b6d563bc3.png)
+- Sean Elli's startup growth pyramid
+    - ![](https://i.gyazo.com/4798934bd8d80bea46165cd0a07f4405.png)
+    - When does a company achieve Product/Market fit?
+        - If 40% of users say they'd be disappointed to lose the service
+- Long Funnel
+    - Complex online and offline factors that influence a user
+    - Possible to inject tracking signals
+    - Look for overlapping of users acquired between platforms
+        - Peer pressure
+- Stages and Gates
+    - Stages
+        - Empathy
+        - Stickiness
+        - Virality
+        - Revenue
+        - Scale
+    - ![](https://i.gyazo.com/1a282886acf745dc50dedc684ce05458.png)
     
