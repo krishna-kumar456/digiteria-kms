@@ -190,4 +190,16 @@
         - Revenue
         - Scale
     - ![](https://i.gyazo.com/1a282886acf745dc50dedc684ce05458.png)
+
+
+
+### One Metric That Matters
+    
+- Net Adds
+    - Quickly see high cancelling days
+    - Total New paid subscribers - Total that cancelled
+- Other important metrics
+    - Total Paying
+    - New Free trials yesterday
+    - 7 Day Net Add Average
     

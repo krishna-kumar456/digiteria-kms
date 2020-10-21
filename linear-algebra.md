@@ -103,7 +103,10 @@
 - f is called a linear transformation if
     - f(xi) + f(xj) = f(xi + xj)
     - c * f(xi) = f(cxi)
-    
+- Special Transformation
+    - Scaling
+    - Rotation
+    - Translation
     
 
 
