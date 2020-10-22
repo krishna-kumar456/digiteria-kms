@@ -111,5 +111,8 @@
 
 
 ## Eigen Values and Eigen Vectors
-<br/>0
+<br/>
+
+- Lambda is called eigen value
+- Same vector = eigen vector
 

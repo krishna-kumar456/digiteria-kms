@@ -202,4 +202,4 @@
     - Total Paying
     - New Free trials yesterday
     - 7 Day Net Add Average
-    
+- Important to identify the baseline goal
